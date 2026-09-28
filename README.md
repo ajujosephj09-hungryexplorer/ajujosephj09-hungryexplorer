@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aju
 
-<!--
-**ajujosephj09-hungryexplorer/ajujosephj09-hungryexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GM and product executive who also writes code.** 15+ years building B2B SaaS, payments, and data platform businesses across Canada, the U.S., Japan, and India.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aju-joseph-john-456578a)
+[![Substack](https://img.shields.io/badge/The_Hungry_Explorer-Subscribe-FF6719?style=flat-square&logo=substack)](https://ajujosephjohn.substack.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I've built
+
+| Project | What it does |
+|---------|-------------|
+| [Competitive Analysis System](https://competitive-analysis-ui.vercel.app) | Runs multi-source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
+| AI Sales Agent | Researches prospects, scores qualification, recommends next actions. Took lead conversion from 5% to 45% |
+| AI Product Management System | Claude-based PM workflow from requirements through PRDs to dev handoff. Cut dev cycles from weeks to under 2 weeks |
+| QuickBooks Reconciliation Engine | AI reconciliation for a CPA firm. Parses bank statements, catches duplicates, produces a human review report. Monthly close went from a week to 45 minutes |
+| Job Intelligence Pipeline | Scrapes LinkedIn daily, scores jobs against my experience via Voyage AI, filters out companies already in my pipeline. Runs for ~$0.15/day |
+
+### Background
+
+- **General Manager, B2B Group at CanadaHelps.** $27M+ P&L, $260M+ processed annually. Incubated a SaaS product from zero to 200+ customers and $36K MRR in 12 months. Built the AI sales agent and AI PM system.
+- **Senior Director, Product at Fiserv.** ~$150M Bank Intelligence portfolio serving ~4,000 banks. Launched Abiliti SaaS ($6M revenue, 100+ paying clients). Payment APIs, Apple Pay, $700M transaction volume. Led Covid SBA loan disbursement: $5B to 100,000+ small businesses in under 3 months.
+- **Product Leader at LexisNexis Risk Solutions.** Turned the HPCC big data platform into a market-facing business ($50M+ new revenue, 100+ enterprise clients). Built Fraud Defense Network across 50+ banks and insurers. Wrote 12 business cases totaling $38M in approved investment.
+- **Duke Fuqua MBA** / **London School of Economics** (exchange) / **Model Engineering College, India** (B.Tech, First Class with Distinction)
+- Author of [The Hungry Explorer](https://ajujosephjohn.substack.com), where I write about building products from zero, shipping AI systems, and what running a P&L actually looks like
+- Raised $225K and created the Dean Yep Jr. Prize in perpetuity for the Duke Startup Challenge
+- Rang the Opening Bell at the Toronto Stock Exchange
+
+### Go deeper
+
+- [The Hungry Explorer](https://ajujosephjohn.substack.com): long-form posts on product decisions, capital allocation, and building AI systems
+- [Competitive Analysis System](https://competitive-analysis-ui.vercel.app): live tool, try it
