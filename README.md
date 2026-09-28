@@ -12,10 +12,8 @@
 | Project | What it does |
 |---------|-------------|
 | [Competitive Analysis System](https://competitive-analysis-ui.vercel.app) | Runs multi-source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
-| AI Sales Agent | Researches prospects, scores qualification, recommends next actions. Took lead conversion from 5% to 45% |
-| AI Product Management System | Claude-based PM workflow from requirements through PRDs to dev handoff. Cut dev cycles from weeks to under 2 weeks |
+| [Redline](https://github.com/ajujosephj09-hungryexplorer/Redline) | AI contract reviewer for freelancers. Flags risky clauses by severity with citations, drafts counter-offer language. Next.js + Supabase |
 | QuickBooks Reconciliation Engine | AI reconciliation for a CPA firm. Parses bank statements, catches duplicates, produces a human review report. Monthly close went from a week to 45 minutes |
-| Job Intelligence Pipeline | Scrapes LinkedIn daily, scores jobs against my experience via Voyage AI, filters out companies already in my pipeline. Runs for ~$0.15/day |
 
 ### Background
 
