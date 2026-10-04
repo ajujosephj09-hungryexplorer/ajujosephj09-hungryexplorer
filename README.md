@@ -11,7 +11,7 @@
 
 | Project | What it does |
 |---------|-------------|
-| [Competitive Analysis System](https://competitive-analysis-ui.vercel.app) | Multi-source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
+| [Competitive Analysis System](https://github.com/ajujosephj09-hungryexplorer/competitive-analysis-ui) | Multi-source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
 | [Redline](https://github.com/ajujosephj09-hungryexplorer/Redline) | AI contract reviewer for freelancers. Flags risky clauses by severity with citations, drafts counter-offer language. Next.js + Supabase |
 | QuickBooks Reconciliation Engine | AI reconciliation for a CPA firm. Parses bank statements, catches duplicates, produces a human review report. Monthly close went from a week to 45 minutes |
 | Career Intelligence System | Scheduled job scrapes LinkedIn daily, scores each posting for fit, tracks applications, generates tailored resumes, and logs debriefs. Fully automated |
