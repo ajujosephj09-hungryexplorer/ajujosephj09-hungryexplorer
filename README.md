@@ -11,9 +11,9 @@
 
 | Project | What it does |
 |---------|-------------|
-| [Portfolio](https://github.com/ajujosephj09-hungryexplorer/Portfolio) | Executive portfolio site. Four case studies with decision narratives, metric strips, and proof links. Next.js static export on Vercel. Live at [ajujosephjohn.com](https://ajujosephjohn.com) |
-| [Competitive Analysis System](https://github.com/ajujosephj09-hungryexplorer/competitive-analysis-ui) | Multi source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
 | [Redline](https://github.com/ajujosephj09-hungryexplorer/Redline) | AI contract reviewer for freelancers. Flags risky clauses by severity with citations, drafts counter offer language. Next.js + Supabase |
+| [Competitive Analysis System](https://github.com/ajujosephj09-hungryexplorer/competitive-analysis-ui) | Multi source competitive research with evidence scoring. Vercel + n8n + Gemini LLM |
+| [Portfolio](https://github.com/ajujosephj09-hungryexplorer/Portfolio) | Executive portfolio site. Four case studies with decision narratives, metric strips, and proof links. Next.js static export on Vercel. Live at [ajujosephjohn.com](https://ajujosephjohn.com) |
 | QuickBooks Reconciliation Engine | AI reconciliation for a CPA firm. Parses bank statements, catches duplicates, produces a human review report. Monthly close went from a week to 45 minutes |
 | Career Intelligence System | Scheduled job scrapes LinkedIn daily, scores each posting for fit, tracks applications, generates tailored resumes, and logs debriefs. Fully automated |
 
